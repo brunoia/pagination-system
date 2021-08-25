@@ -7,6 +7,7 @@
 :root {
     --black: #130f0d;
     --white: #f0f0f9;
+    --red: #da0000;
 }
 
 *, button, input {
@@ -69,5 +70,6 @@ header h1 {
 #paginate .pagination div:not(.numbers):hover,
 #paginate .pagination div.numbers div:hover,
 #paginate .pagination div.numbers div.active {
-    color: var(--primary);
+    color: var(--red);
+    font-weight: bold;
 }
