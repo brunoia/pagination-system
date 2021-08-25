@@ -1,4 +1,4 @@
-# pagination-system
+# Pagination System
 
 Project focused on vanilla JS studies on pagination system.
 
