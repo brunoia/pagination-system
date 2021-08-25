@@ -70,6 +70,10 @@ header h1 {
 #paginate .pagination div:not(.numbers):hover,
 #paginate .pagination div.numbers div:hover,
 #paginate .pagination div.numbers div.active {
+    font-weight: bold;
+}
+
+#paginate .pagination div.numbers div.active {
     color: var(--red);
     font-weight: bold;
 }
